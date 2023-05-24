@@ -21,11 +21,17 @@ This is a project written using [Lucky](https://luckyframework.org). Enjoy!
 #### Installing Lucky
 
 `git clone https://github.com/luckyframework/lucky_cli`
+
 `cd cd lucky_cli`
+
 `git checkout v1.0.0`
+
 `shards install --without-development`
+
 `shards build --production`
+
 `cp bin/lucky /usr/local/bin`
+
 `lucky -v`
 
 1. [Install required dependencies](https://luckyframework.org/guides/getting-started/installing#install-required-dependencies)
